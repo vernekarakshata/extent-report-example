@@ -1,2 +1,2 @@
 # extent-report-example
-Sample extent report
+Sample Extent Report
