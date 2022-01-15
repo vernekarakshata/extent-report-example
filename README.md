@@ -16,3 +16,5 @@ Also it requires [ChromeDriver](https://chromedriver.chromium.org/) based on you
 
 Install maven and change details of the constants defined in [ReportGeneration.java](https://github.com/vernekarakshata/extent-report-example/blob/master/src/com/framework/com/tests/ReportGeneration.java) file in codebase as per your local environment.
 As per IDE install TestNG plugin and run as a TestNG framework. 
+
+> Please ensure the xpath is correct for the flow as it may change time to time.
